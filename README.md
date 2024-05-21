@@ -1,4 +1,5 @@
 ouverture du repo pour se lancer dans la competition Kaggle
+https://www.kaggle.com/competitions/playground-series-s4e5
 
 Regression with a Flood Prediction Dataset
 
